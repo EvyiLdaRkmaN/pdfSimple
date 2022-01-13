@@ -1,0 +1,11 @@
+{
+  "name": "pdfsimple",
+  "version": "1.0.0",
+  "description": "Easy creator of documents pdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Yordy",
+  "license": "ISC"
+}
